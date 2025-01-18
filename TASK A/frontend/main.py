@@ -1,8 +1,13 @@
+import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from PyQt6.QtWidgets import QApplication, QMainWindow, QLabel, QPushButton, QVBoxLayout, QWidget
 from PyQt6.QtGui import QPixmap
 from PyQt6.QtCore import Qt, QTimer
-import window_2
+from frontend import window_2
+from frontend.window_3 import ThirdWindow
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 class MainWindow(QMainWindow):
     def __init__(self): 
@@ -24,7 +29,7 @@ class MainWindow(QMainWindow):
         self.logo_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         self.layout.addWidget(self.logo_label)
         
-        self.timer = QTimer(self) #intro picture
+        self.timer = QTimer(self) 
         self.timer.timeout.connect(self.show_welcome_screen)
         self.timer.setSingleShot(True)
         self.timer.start(2000) 
