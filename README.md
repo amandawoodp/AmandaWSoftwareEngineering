@@ -36,7 +36,7 @@ between your own work/testing and content generation in order to learn something
 
 12. Use a good **IDE** [and get fluent with it: e.g. VSCode, IntelliJ. What are your favourite key shortcuts?!](https://www.canva.com/design/DAGcjTovjq8/gKMv2shVox4MgQq7XnaqmA/edit?utm_content=DAGcjTovjq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-13. **AI Coding**: [Set Up an AI-coding environment on your computer like ZED, Aider, etc. Show your steps and personal experiences! ([ref](https://newsletter.pragmaticengineer.com/p/ide-that-software-engineers-love))](https://www.canva.com/design/DAGcjdp2BNg/Syacr39LqYewINnH5jnv8A/edit?utm_content=DAGcjdp2BNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+13. **AI Coding**: [Set Up an AI-coding environment on your computer like ZED, Aider, etc. Show your steps and personal experiences!](https://www.canva.com/design/DAGcjdp2BNg/Syacr39LqYewINnH5jnv8A/edit?utm_content=DAGcjdp2BNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) ([ref](https://newsletter.pragmaticengineer.com/p/ide-that-software-engineers-love))
 
 14. **FUNCTIONAL PROGRAMMING:** [prove that you have covered all functional aspects in your code as:](https://www.canva.com/design/DAGcX-Mvvos/BWReVjJBKBaOQliRyqM3Rw/edit?utm_content=DAGcX-Mvvos&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     - only final data structures
